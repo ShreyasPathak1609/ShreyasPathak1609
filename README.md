@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=ShreyasPathak1609&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Lead%20SDET&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Lead%20SDET%20%E2%80%94%20Test%20Automation%2C%20Quality%2C%20and%20AI&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=3" alt="Lead SDET — Test Automation, Quality, and AI" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ShreyasPathak1609">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Lead%20SDET%20with%209%20years%20of%20experience%20in%20test%20automation%20engineering%2C%20quality%20leadership%2C%20and%20automation%20strategy%20across%20SaaS%2C%20data-centric%2C%20and%20distributed%20platforms.%20Specialized%20in%20building%20scalable%20UI%20and%20API%20testing%20frameworks%20(Selenium%2FJava%2C%20Playwright%2FTypeScript%2C%20Rest%20Assured)%20and%20integrating%20automation%20into%20CI%2FCD%20pipelines%20using%20Jenkins%2C%20Docker%2C%20and%20Kubernetes.%20%20Experienced%20in%20designing%20and%20maintaining%20test%20automation%20solutions%20for%20cloud-native%20systems%20hosted%20on%20AWS%2C%20Azure%2C%20GCP%2C%20and%20OCI%2C%20ensuring%20robust%20quality%20for%20distributed%20architectures.%20Skilled%20at%20leading%20agile%20QA%2FSDET%20teams%2C%20mentoring%20engineers%2C%20and%20driving%20adoption%20of%20AI%2FML-driven%20testing%20to%20deliver%20reliable%2C%20high-quality%20releases%20in%20fast-paced%20environments." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Lead%20SDET%20%E2%80%94%20Test%20Automation%2C%20Quality%2C%20and%20AI" alt="Lead SDET — Test Automation, Quality, and AI"/>
 </a>
 
 <!-- PROFILE BADGES -->
@@ -27,9 +27,9 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" widt[...]
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt[...]
 
 💼 **9 years of Experience in Test Automation**
 
@@ -44,12 +44,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyasPathak1609&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyasPathak1609&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_col[...]
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShreyasPathak1609&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ShreyasPathak1609&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak[...]
 </div>
 
 <!-- GitHub Trophies -->
@@ -61,7 +61,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Skills
 
-Below is a clean, scannable skills section built from your Tech Stack. It contains concise badges for quick recognition and optional visual bars to show your relative proficiency. Edit the percentages as you prefer.
+Below is a clean, scannable skills section built from your Tech Stack. It contains concise badges for quick recognition and optional visual bars to show your relative proficiency. Edit the percentages[...]
 
 ### Key Skill Badges
 <div align="center">
