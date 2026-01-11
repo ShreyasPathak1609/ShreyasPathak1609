@@ -14,27 +14,26 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Lead-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/1+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
-  
   <img src="https://komarev.com/ghpvc/?username=ShreyasPathak1609&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/shreyas-pathak-6248bb106/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+  <a href="https://www.linkedin.com/in/shreyas-pathak-6248bb106/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" widt[...]
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" height="28" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt[...]
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top languages" />
 
-💼 **9 years of Experience in Test Automation**
-
-🌱 Currently learning **AI Agents, Kubernetes**
-
+💼 **9 years of Experience in Test Automation**  
+🌱 Currently learning **AI Agents, Kubernetes**  
 📦 **0** repositories
 
 <br clear="right"/>
@@ -44,16 +43,16 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyasPathak1609&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&[...]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_col[...]
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyasPathak1609&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=fff" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasPathak1609&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShreyasPathak1609&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak[...]
+<div align="center" style="margin-top:12px;">
+  <img src="https://streak-stats.demolab.com?user=ShreyasPathak1609&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak" />
 </div>
 
 <!-- GitHub Trophies -->
-<div align="center">
+<div align="center" style="margin-top:12px;">
   <img src="https://github-profile-trophy.vercel.app/?username=ShreyasPathak1609&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
@@ -61,27 +60,27 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Skills
 
-Below is a clean, scannable skills section built from your Tech Stack. It contains concise badges for quick recognition and optional visual bars to show your relative proficiency. Edit the percentages[...]
+Below is a clean, scannable skills section built from your Tech Stack with badges and editable visual bars.
 
 ### Key Skill Badges
 <div align="center">
-<!-- Testing & QA -->
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
-<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
-<img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  <!-- Testing & QA -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+  <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
+  <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 
-<!-- Development -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <!-- Development -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 
-<!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </div>
 
 ---
@@ -150,30 +149,27 @@ Below is a clean, scannable skills section built from your Tech Stack. It contai
 ---
 
 ### Skill highlights (short)
-- Test automation frameworks: Selenium (Java), Playwright (TypeScript), REST Assured
-- API testing, contract & performance testing (Postman, Gatling, Karate)
-- CI/CD & orchestration: Jenkins, Docker (containerized test runs), Selenium Grid
-- Cloud deployment & infra: AWS (test infra, pipelines), basics of Kubernetes
-- Tools & processes: Maven/Gradle, Git, Jira, ExtentReports, automation strategy and team mentoring
+- Test automation frameworks: Selenium (Java), Playwright (TypeScript), REST Assured  
+- API testing, contract & performance testing (Postman, Gatling, Karate)  
+- CI/CD & orchestration: Jenkins, Docker (containerized test runs), Selenium Grid  
+- Cloud deployment & infra: AWS (test infra, pipelines), basics of Kubernetes  
+- Tools & processes: Maven/Gradle, Git, Jira, ExtentReports, automation strategy and mentoring
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-0-green?style=for-the-badge" alt="Repos"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-1+-orange?style=for-the-badge" alt="Years"/>
-</td>
-</tr>
-</table>
-
+<div align="center" style="margin-top:6px;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📦_Repositories-0-green?style=for-the-badge" alt="Repos"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📅_Years_Active-1+-orange?style=for-the-badge" alt="Years"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -181,21 +177,17 @@ Below is a clean, scannable skills section built from your Tech Stack. It contai
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
 
 <div align="center">
+  **I'm always interested in collaborating on exciting projects!**
+  <a href="https://www.linkedin.com/in/shreyas-pathak-6248bb106/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-**I'm always interested in collaborating on exciting projects!**
-
-<a href="https://www.linkedin.com/in/shreyas-pathak-6248bb106/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-
-📫 **Reach out** — I'd love to hear from you!
-
+  <p>📫 Reach out — I'd love to hear from you!</p>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
-
-**⭐ From [ShreyasPathak1609](https://github.com/ShreyasPathak1609) with ❤️**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+  <p><strong>⭐ From <a href="https://github.com/ShreyasPathak1609">ShreyasPathak1609</a> with ❤️</strong></p>
 </div>
